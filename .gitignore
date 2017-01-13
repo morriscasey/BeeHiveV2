@@ -2,3 +2,7 @@
 framework/application/config/config.php
 
 framework/application/config/database.php
+
+application/config/config.php
+
+application/config/database.php

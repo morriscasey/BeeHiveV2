@@ -17,3 +17,10 @@
 [21-Dec-2016 12:42:31 America/Chicago] PHP Fatal error:  Call to undefined method Login_model::validate_credentials() in /home/beetest/framework/application/controllers/Login.php on line 62
 [21-Dec-2016 12:48:35 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/beetest/framework/application/models/Login_model.php on line 12
 [21-Dec-2016 12:48:55 America/Chicago] PHP Fatal error:  Call to undefined function get() in /home/beetest/framework/application/models/Login_model.php on line 13
+[12-Jan-2017 11:30:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/beetest/framework/application/controllers/Main.php on line 12
+[12-Jan-2017 15:44:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/beetest/framework/application/views/templates/main/sidebar.php on line 3
+[12-Jan-2017 15:56:04 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/beetest/framework/application/views/templates/main/sidebar.php on line 3
+[12-Jan-2017 15:56:33 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/beetest/framework/application/views/templates/main/sidebar.php on line 3
+[12-Jan-2017 16:02:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/beetest/framework/application/controllers/Login.php on line 65
+[12-Jan-2017 16:03:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/beetest/framework/application/controllers/Login.php on line 65
+[12-Jan-2017 16:03:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/beetest/framework/application/controllers/Login.php on line 65
